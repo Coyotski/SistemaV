@@ -40,7 +40,7 @@ Sistema Vedas es una aplicación para la consulta de vedas pesqueras en México.
 
 ## Créditos
 
-- Desarrollado por el equipo de Sistema Vedas.
+- Desarrollado por Coyotski
 
 
 ## Notas
@@ -48,3 +48,4 @@ Sistema Vedas es una aplicación para la consulta de vedas pesqueras en México.
 - Si tienes problemas al ejecutar el sistema, revisa que todos los archivos y carpetas estén en la misma ubicación.
 - Para más información, consulta los documentos PDF incluidos en el proyecto.
 - El archivo `vedas-grafica.py` permite modificar y extender la funcionalidad del sistema fácilmente si tienes conocimientos de Python.
+
